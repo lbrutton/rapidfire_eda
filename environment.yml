@@ -1,0 +1,12 @@
+name: rapidfire_eda
+channels:
+  - defaults
+dependencies:
+  - python==3.8.5
+  - pandas
+  - matplotlib
+  - numpy
+  - pip
+  - jupyter
+  - ipython
+  - pandas-profiling
